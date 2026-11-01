@@ -1,0 +1,29 @@
+# Local Python environments
+.venv/
+.venv-defense/
+.venv-engine/
+venv/
+
+# Downloaded model files and Torch caches
+Chameleon_Toolkit/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.unittest_cache/
+
+# Chameleon generated outputs
+*_chameleon.jpg
+*_chameleon.jpeg
+*_chameleon.png
+*_defense_*.png
+*_defense_*.json
+
+# Local samples and working images
+local-samples/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
