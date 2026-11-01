@@ -125,6 +125,10 @@ Those downloaded files are runtime caches and are not part of this source packag
 - `SETUP.md`: installation and first-run guide
 - `THIRD_PARTY_NOTICES.md`: third-party software and model notices
 
+## Credits
+
+- Vice President: Lapis Salazar
+
 ## License
 
 Chameleon source code is released under the MIT License. See [LICENSE](LICENSE).
