@@ -27,3 +27,8 @@ local-samples/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Node / TestDriver
+node_modules/
+.env
+.testdriver/
